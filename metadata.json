@@ -1,0 +1,5 @@
+{
+  "name": "LaTeX Playground",
+  "description": "A playground for converting pseudo-LaTeX to formal Notion-compatible LaTeX using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
